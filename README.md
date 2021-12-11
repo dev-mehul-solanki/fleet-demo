@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Detail about api used
+
+Before starting project run npm install
+Used chroma js api to convert color name into hex code and custom function to convert color into hex which are not supported by chroma js

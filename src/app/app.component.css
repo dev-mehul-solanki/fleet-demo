@@ -1,0 +1,40 @@
+.colr-scheme{
+    margin: 3rem auto;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+.colr-scheme li {
+    width: 10rem;
+    height: 10rem;
+    float: left;
+    position: relative;
+    margin-right: 10px;
+}
+.color-info {
+    position: absolute;
+    padding: .5rem;
+    background-color: #FFF;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    font-size: 85%;
+    text-align: center;
+}
+.color-info span {
+    display: block;
+}
+.submitButton{
+    margin-left: 0.5rem;
+    height: 2rem;
+    width: 5rem;
+}
+input{
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-left: 0.3rem;
+}
+label{
+   font-size: 1.2rem;
+}
